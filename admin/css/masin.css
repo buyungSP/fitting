@@ -1,0 +1,103 @@
+html {
+    scroll-behavior: smooth;
+}
+
+main {
+    margin-left: auto !important;
+}
+
+.top-nav-collapse {
+    background-color: #fff !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+}
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #fff !important;
+    }
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    /* rtl:raw:
+  right: 0;
+  */
+    bottom: 0;
+    /* rtl:remove */
+    left: 0;
+    z-index: 100;
+    /* Behind the navbar */
+    padding: 48px 0 0;
+    /* Height of navbar */
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+}
+
+@media (max-width: 767.98px) {
+    .sidebar {
+        top: 5rem;
+    }
+}
+
+.sidebar-sticky {
+    height: calc(100vh - 48px);
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* Scrollable contents if viewport is shorter than content. */
+}
+
+.sidebar .nav-link {
+    font-weight: 500;
+    color: #333;
+}
+
+.sidebar .nav-link .feather {
+    margin-right: 4px;
+    color: #727272;
+}
+
+.sidebar .nav-link.active {
+    color: #2470dc;
+}
+
+.sidebar .nav-link:hover .feather,
+.sidebar .nav-link.active .feather {
+    color: inherit;
+}
+
+.sidebar-heading {
+    font-size: .75rem;
+}
+
+.buttonMenu {
+    position: relative;
+    float: left;
+    width: 34px;
+    height: 34px;
+    line-height: 24px;
+    padding: 5px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+.dropfile {
+    border: 2px dashed #e0e4e8;
+    text-align: center;
+    min-height: 20px;
+}
+
+.dropfile.hover {
+    border-color: #aac3cc;
+}
+
+.dropfile small {
+    margin: 50px 0;
+    display: block;
+}

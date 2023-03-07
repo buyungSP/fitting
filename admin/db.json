@@ -1,0 +1,444 @@
+{
+    "section1":
+    {
+        "title": "KEMEJA",
+        "textList": ["Seragam Kantor", " Seragam PDL", " Seragam PDH", " Kemeja Tactical", " Kemeja Outdoor", " Kemeja Casual", " Kemeja Denim", " Kemeja Batik"],
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677777703691.webp?1678118422",
+            "alt": "Konveksi Kemeja"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677777729883.webp?1678115585",
+            "alt": "Konveksi Seragam"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677835595315.webp?1678115602",
+            "alt": "Konveksi PDL"
+        }]
+    },
+    "section2":
+    {
+        "title": "Kemeja",
+        "subtitle": "Kemeja Custom",
+        "text": "test",
+        "button":
+        {
+            "href": "",
+            "title": "PRODUKSI SEKARANG "
+        },
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677836697646.webp?1678119908",
+            "alt": "test"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677836712361.webp?1678119919",
+            "alt": "test"
+        }]
+    },
+    "section3":
+    {
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677774848174.webp?1678117100",
+            "alt": "test"
+        },
+        {
+            "alt": "asdasd",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677776854019.webp?1678117182"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677997686430.webp?1678117195"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677997699533.webp?1678117208"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677997707620.webp?1678117217"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678023636382.webp?1678117228"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678023657371.webp?1678117237"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678023664044.webp?1678117244"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678023677060.webp?1678117255"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678023685651.webp?1678117263"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678023697139.webp?1678117272"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678023707819.webp?1678117280"
+        }]
+    },
+    "section4":
+    {
+        "title": "KEMEJA CUSTOM",
+        "subtitle": "Produksi Kemeja",
+        "text1": "Konveksi Kemeja Seragam Kantor",
+        "text2": "Kemeja Seragam Kantor",
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837540191.webp?1678117325",
+            "alt": "test"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837561409.webp?1678117335",
+            "alt": "test"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837658258.webp?1678117344",
+            "alt": "test"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837670006.webp?1678117353",
+            "alt": "test"
+        }]
+    },
+    "section5":
+    {
+        "title": "KEMEJA ",
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837195115.webp?1678117476",
+            "alt": "test",
+            "href": ""
+        },
+        {
+            "alt": "asd",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837310159.webp?1678117484",
+            "href": ""
+        },
+        {
+            "alt": "asdasd",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837333300.webp?1678117494",
+            "href": ""
+        },
+        {
+            "alt": "asdasdsad",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837366122.webp?1678117502",
+            "href": ""
+        },
+        {
+            "alt": "aasdas",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677837709043.webp?1678117512",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034279947.webp?1678117522",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034332782.webp?1678117532",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034350878.webp?1678117540",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034407237.webp?1678117549",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034431577.webp?1678117557",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034447677.webp?1678117564",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034494662.webp?1678117572",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034534649.webp?1678117581",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034618286.webp?1678117588",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034645787.webp?1678117596",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034668537.webp?1678117604",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034694993.webp?1678117630",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034768959.webp?1678117638",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034790665.webp?1678117650",
+            "href": ""
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678034818299.webp?1678117659",
+            "href": ""
+        }]
+    },
+    "section6":
+    {
+    	"title": "",
+    	"subtitle": "",
+        "button":
+        {
+            "href": "test",
+            "title": "Konsultasi Produksi"
+        },
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838145846.webp?1678118931",
+            "alt": "test"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838160108.webp?1678118911",
+            "alt": "test"
+        }]
+    },
+    "section7":
+    {
+        "img": [
+        {
+            "title": "Produksi Seragam Kantor",
+            "subtitle": "Wahyu Prayogi",
+            "alt": "Produksi Seragam Kantor",
+            "text": "Kualitas hasil dari produksi sangat memuaskan, bordir rapi serta sesuai dengan Desain yang saya inginkan.",
+            "href": "test",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838877036.webp?1678117680"
+        },
+        {
+            "title": "testasd",
+            "subtitle": "testasd",
+            "alt": "testasd",
+            "text": "testasd",
+            "href": "test",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838886973.webp?1678117688"
+        },
+        {
+            "title": "testasd",
+            "subtitle": "testasd",
+            "alt": "testasd",
+            "text": "testasd",
+            "href": "test",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838897702.webp?1678117696"
+        },
+        {
+            "title": "testasd",
+            "subtitle": "testasd",
+            "alt": "testasd",
+            "text": "testasd",
+            "href": "test",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838907668.webp?1678117706"
+        },
+        {
+            "title": "testasd",
+            "subtitle": "testasd",
+            "alt": "testasd",
+            "text": "testasd",
+            "href": "test",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838918333.webp?1678117720"
+        }]
+    },
+    "section8":
+    {
+        "img": [
+        {
+            "href": "test",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838705751.webp?1678117924",
+            "alt": "test"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838714891.webp?1678117945"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838724500.webp?1678117956"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838733324.webp?1678117965"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838742958.webp?1678117974"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838752315.webp?1678117982"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838768283.webp?1678118014"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838777656.webp?1678118003"
+        }]
+    },
+    "section9":
+    {
+        "title": "Kemeja Custom",
+        "subtitle": "Produk Custom Kemeja",
+        "text": "BIKIN KEMEJA KERJA , EVENT, KAMPUS, BRAND SESUAI KEBUTUHAN KAMU  DI FITTING INDONESIA DAN ABADIKAN MOMENT KEGIATAN SERUNYA BERSAMA KAWAN SE-TEAM. LETS-ROCK !"
+    },
+    "section10":
+    {
+        "title": "kemeja custom",
+        "button":
+        {
+            "href": "teste",
+            "title": "SEMUA PRODUK CUSTOM FITTING INDONESIA"
+        },
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838243027.webp?1678116094",
+            "alt": "test"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838255021.webp?1678116109"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838267076.webp?1678116123"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838285932.webp?1678116144"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1677838299788.webp?1678116157"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678042186553.webp?1678116170"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678042205066.webp?1678116184"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678042214265.webp?1678116197"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678042234745.webp?1678116213"
+        },
+        {
+            "alt": "",
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678042243288.webp?1678116257"
+        }]
+    },
+    "footer":
+    {
+        "google": "",
+        "title": "fitting indonesia",
+        "description": "Konveksi Baju Custom Yang Siap Terima Orderan Kamu Dan Kami Kirim Ke Seluruh Indonesia. ",
+        "phone": [
+        {
+            "name": "Supper Fitteam",
+            "phone": "+628112537357"
+        },
+        {
+            "name": "Supper Fitteam CS 1",
+            "phone": "08114235432531"
+        }],
+        "whatsapp": "89667711258",
+        "email": "sales@fittingindonesia.com ",
+        "address": "Jl. Kb. Rejo Raya No.121, Rawa, Kebonbatur, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567",
+        "img": [
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678028107590.webp?1678115886",
+            "alt": "icon"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678028175146.webp?1678118028",
+            "alt": "logo"
+        },
+        {
+            "src": "https:\/\/test.smooth.my.id\/admin\/img\/1678076908696.webp?1678115958",
+            "alt": "footer"
+        }]
+    },
+    "menu":
+    {
+        "link": [
+        {
+            "alt": "Konveksi Produksi Jaket",
+            "href": ""
+        },
+        {
+            "alt": "Konveksi Produksi Kaos",
+            "href": ""
+        },
+        {
+            "alt": "Konveksi Produksi Rompi",
+            "href": ""
+        },
+        {
+            "alt": "Konveksi Produksi Kemeja",
+            "href": ""
+        },
+        {
+            "alt": "Konveksi Produksi Polo Shirt",
+            "href": ""
+        },
+        {
+            "alt": "Semua Produk Custom",
+            "href": ""
+        },
+        {
+            "alt": "Konsultasi Layanan Brand (Kemeja)",
+            "href": ""
+        },
+        {
+            "alt": "Hubungi Kami ",
+            "href": ""
+        }]
+    }
+}
